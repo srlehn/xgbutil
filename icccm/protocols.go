@@ -1,11 +1,11 @@
 package icccm
 
 import (
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/jezek/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xprop"
+	"github.com/jezek/xgbutil"
+	"github.com/jezek/xgbutil/xevent"
+	"github.com/jezek/xgbutil/xprop"
 )
 
 // IsDeleteProtocol checks whether a ClientMessage event satisfies the

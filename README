@@ -17,18 +17,20 @@ Your first stop should be the examples directory.
 
 Installation
 ============
-go get github.com/BurntSushi/xgbutil
+go get github.com/jezek/xgbutil
 
 Dependencies
 ============
 XGB is the main dependency. Use of the xgraphics packages requires graphics-go
 and freetype-go.
 
-XGB project URL: https://github.com/BurntSushi/xgb
+XGB project URL: https://github.com/jezek/xgb
+graphics-go project URL: https://github.com/BurntSushi/graphics-go
+freetype-go project URL: https://github.com/BurntSushi/freetype-go
 
 Quick Example
 =============
-go get github.com/BurntSushi/xgbutil/_examples/window-name-sizes
+go get github.com/jezek/xgbutil/_examples/window-name-sizes
 "$GOPATH"/bin/window-name-sizes
 
 The output will be a list of names of all top-level windows and their geometry
@@ -37,7 +39,7 @@ some basic EWMH properties.)
 
 Documentation
 =============
-https://godoc.org/github.com/BurntSushi/xgbutil
+https://godoc.org/github.com/jezek/xgbutil
 
 Examples
 ========
@@ -46,10 +48,13 @@ They are heavily documented and should run out of the box.
 
 Python
 ======
-An older project of mine, xpybutil, served as inspiration for xgbutil. If you
+An older project of mine (BurntSushi), xpybutil, served as inspiration for xgbutil. If you
 want to use Python, xpybutil should help quite a bit. Please note though, that
 at this point, xgbutil provides a lot more functionality and is much better
 documented.
 
 xpybutil project URL: https://github.com/BurntSushi/xpybutil
 
+jezek's Fork
+============
+Why I've forked the xgbutil repository from BurntSushi's github is discussed in [issue #2](https://github.com/jezek/xgb/issues/2).

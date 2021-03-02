@@ -3,10 +3,10 @@ package icccm
 import (
 	"fmt"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/jezek/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xprop"
+	"github.com/jezek/xgbutil"
+	"github.com/jezek/xgbutil/xprop"
 )
 
 const (

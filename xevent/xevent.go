@@ -1,10 +1,10 @@
 package xevent
 
 import (
-	"github.com/BurntSushi/xgb"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/jezek/xgb"
+	"github.com/jezek/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/jezek/xgbutil"
 )
 
 // Sometimes we need to specify NO WINDOW when a window is typically

@@ -7,12 +7,12 @@ import (
 	"flag"
 	"log"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/jezek/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/keybind"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xwindow"
+	"github.com/jezek/xgbutil"
+	"github.com/jezek/xgbutil/keybind"
+	"github.com/jezek/xgbutil/xevent"
+	"github.com/jezek/xgbutil/xwindow"
 )
 
 var flagRoot = false

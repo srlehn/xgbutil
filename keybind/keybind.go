@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/jezek/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xevent"
+	"github.com/jezek/xgbutil"
+	"github.com/jezek/xgbutil/xevent"
 )
 
 var (

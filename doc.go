@@ -19,7 +19,7 @@ Installation
 
 xgbutil is go-gettable:
 
-	go get github.com/BurntSushi/xgbutil
+	go get github.com/jezek/xgbutil
 
 Dependencies
 
@@ -31,7 +31,7 @@ Quick Example
 
 A quick example to demonstrate that xgbutil is working correctly:
 
-	go get github.com/BurntSushi/xgbutil/examples/window-name-sizes
+	go get github.com/jezek/xgbutil/examples/window-name-sizes
 	GO/PATH/bin/window-name-sizes
 
 The output will be a list of names of all top-level windows and their geometry
@@ -48,14 +48,14 @@ heavily documented.
 The examples directory should be your first stop when learning how to use
 xgbutil.
 
-xgbutil is also used heavily throughout my window manager, Wingo. It may be
+xgbutil is also used heavily throughout my (BurntSushi) window manager, Wingo. It may be
 useful reference material.
 
 Wingo project page: https://github.com/BurntSushi/wingo
 
 Thread Safety
 
-While I am fairly confident that XGB is thread safe, I am only somewhat
+While I am (BurntSushi) fairly confident that XGB is thread safe, I am only somewhat
 confident that xgbutil is thread safe. It simply has not been tested enough for
 my confidence to be higher.
 

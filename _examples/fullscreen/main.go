@@ -8,17 +8,17 @@ import (
 	_ "image/png"
 	"log"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/jezek/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/ewmh"
-	"github.com/BurntSushi/xgbutil/gopher"
-	"github.com/BurntSushi/xgbutil/icccm"
-	"github.com/BurntSushi/xgbutil/keybind"
-	"github.com/BurntSushi/xgbutil/mousebind"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xgraphics"
-	"github.com/BurntSushi/xgbutil/xwindow"
+	"github.com/jezek/xgbutil"
+	"github.com/jezek/xgbutil/ewmh"
+	"github.com/jezek/xgbutil/gopher"
+	"github.com/jezek/xgbutil/icccm"
+	"github.com/jezek/xgbutil/keybind"
+	"github.com/jezek/xgbutil/mousebind"
+	"github.com/jezek/xgbutil/xevent"
+	"github.com/jezek/xgbutil/xgraphics"
+	"github.com/jezek/xgbutil/xwindow"
 )
 
 func main() {

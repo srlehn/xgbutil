@@ -12,11 +12,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/ewmh"
-	"github.com/BurntSushi/xgbutil/xinerama"
-	"github.com/BurntSushi/xgbutil/xrect"
-	"github.com/BurntSushi/xgbutil/xwindow"
+	"github.com/jezek/xgbutil"
+	"github.com/jezek/xgbutil/ewmh"
+	"github.com/jezek/xgbutil/xinerama"
+	"github.com/jezek/xgbutil/xrect"
+	"github.com/jezek/xgbutil/xwindow"
 )
 
 func main() {

@@ -57,7 +57,7 @@ bit order, scanline padding and unit length, image depth and so on. Handling
 all of the possible values for each configuration option will greatly inflate
 the code, but is on the TODO list.
 
-I am undecided (perhaps because I haven't thought about it too much) about
+I am (BurntSushi) undecided (perhaps because I haven't thought about it too much) about
 whether to hide these configuration details behind multiple xgraphics.Image
 types or hiding everything inside one xgraphics.Image type. I lean toward the
 latter because the former requires a large number of types (and therefore a lot
@@ -85,6 +85,6 @@ routines. (Unfortunately, both things need to be fast.)
 If your X server is not configured to what the xgraphics package expects,
 messages will be emitted to stderr when a new xgraphics.Image value is created.
 If you see any of these messages, please report them to xgbutil's project page:
-https://github.com/BurntSushi/xgbutil.
+https://github.com/jezek/xgbutil.
 */
 package xgraphics

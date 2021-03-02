@@ -9,11 +9,11 @@ package main
 import (
 	"log"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/jezek/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xgraphics"
+	"github.com/jezek/xgbutil"
+	"github.com/jezek/xgbutil/xevent"
+	"github.com/jezek/xgbutil/xgraphics"
 )
 
 func main() {
