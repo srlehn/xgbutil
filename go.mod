@@ -1,6 +1,6 @@
 module github.com/jezek/xgbutil
 
-go 1.18
+go 1.11
 
 require (
 	github.com/BurntSushi/freetype-go v0.0.0-20160129220410-b763ddbfe298
