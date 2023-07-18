@@ -4,7 +4,7 @@ import (
 	"github.com/jezek/xgb"
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
+	"github.com/srlehn/xgbutil"
 )
 
 // Sometimes we need to specify NO WINDOW when a window is typically

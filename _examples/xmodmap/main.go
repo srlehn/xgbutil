@@ -12,8 +12,8 @@ import (
 
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/keybind"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/keybind"
 )
 
 func main() {

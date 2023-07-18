@@ -5,8 +5,8 @@ import (
 
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/xprop"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/xprop"
 )
 
 const (

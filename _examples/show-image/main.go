@@ -8,10 +8,10 @@ import (
 	_ "image/png"
 	"log"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/gopher"
-	"github.com/jezek/xgbutil/xevent"
-	"github.com/jezek/xgbutil/xgraphics"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/gopher"
+	"github.com/srlehn/xgbutil/xevent"
+	"github.com/srlehn/xgbutil/xgraphics"
 )
 
 func main() {

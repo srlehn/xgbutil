@@ -6,11 +6,11 @@ package main
 
 import (
 	"github.com/jezek/xgb/xproto"
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/keybind"
-	"github.com/jezek/xgbutil/xevent"
-	"github.com/jezek/xgbutil/xgraphics"
-	"github.com/jezek/xgbutil/xwindow"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/keybind"
+	"github.com/srlehn/xgbutil/xevent"
+	"github.com/srlehn/xgbutil/xgraphics"
+	"github.com/srlehn/xgbutil/xwindow"
 	"image"
 	"log"
 	"time"

@@ -32,8 +32,8 @@ import (
 	"github.com/BurntSushi/graphics-go/graphics"
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/xwindow"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/xwindow"
 )
 
 // Model for the BGRA color type.

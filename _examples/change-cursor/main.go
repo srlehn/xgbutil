@@ -15,9 +15,9 @@ import (
 
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/xcursor"
-	"github.com/jezek/xgbutil/xwindow"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/xcursor"
+	"github.com/srlehn/xgbutil/xwindow"
 )
 
 func main() {

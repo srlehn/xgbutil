@@ -7,9 +7,9 @@ package main
 import (
 	"log"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/keybind"
-	"github.com/jezek/xgbutil/xevent"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/keybind"
+	"github.com/srlehn/xgbutil/xevent"
 )
 
 func main() {

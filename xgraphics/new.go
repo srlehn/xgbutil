@@ -16,9 +16,9 @@ import (
 
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/ewmh"
-	"github.com/jezek/xgbutil/xwindow"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/ewmh"
+	"github.com/srlehn/xgbutil/xwindow"
 )
 
 // NewConvert converts any image satisfying the image.Image interface to an

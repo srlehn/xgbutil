@@ -5,8 +5,8 @@ import (
 
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/xevent"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/xevent"
 )
 
 // connect is essentially 'Connect' for either ButtonPress or

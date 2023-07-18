@@ -3,7 +3,7 @@ package ewmh
 import (
 	"fmt"
 
-	"github.com/jezek/xgbutil"
+	"github.com/srlehn/xgbutil"
 )
 
 // GetEwmhWM uses the EWMH spec to find if a conforming window manager

@@ -12,11 +12,11 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/ewmh"
-	"github.com/jezek/xgbutil/xinerama"
-	"github.com/jezek/xgbutil/xrect"
-	"github.com/jezek/xgbutil/xwindow"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/ewmh"
+	"github.com/srlehn/xgbutil/xinerama"
+	"github.com/srlehn/xgbutil/xrect"
+	"github.com/srlehn/xgbutil/xwindow"
 )
 
 func main() {

@@ -48,9 +48,9 @@ import (
 
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/xevent"
-	"github.com/jezek/xgbutil/xwindow"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/xevent"
+	"github.com/srlehn/xgbutil/xwindow"
 )
 
 // workTime is the amount of time to sleep to simulate "work" in response to

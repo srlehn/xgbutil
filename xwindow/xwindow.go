@@ -5,11 +5,11 @@ import (
 
 	"github.com/jezek/xgb/xproto"
 
-	"github.com/jezek/xgbutil"
-	"github.com/jezek/xgbutil/keybind"
-	"github.com/jezek/xgbutil/mousebind"
-	"github.com/jezek/xgbutil/xevent"
-	"github.com/jezek/xgbutil/xrect"
+	"github.com/srlehn/xgbutil"
+	"github.com/srlehn/xgbutil/keybind"
+	"github.com/srlehn/xgbutil/mousebind"
+	"github.com/srlehn/xgbutil/xevent"
+	"github.com/srlehn/xgbutil/xrect"
 )
 
 // Window represents an X window. It contains an XUtilValue to simplfy the
